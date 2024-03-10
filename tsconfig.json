@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs", // express.js
+    "moduleResolution": "node", // express.js
+    "strict": true,
+    "rootDir": "src",
+    "outDir": "build",
+    "lib": [
+      "es6"
+    ],
+    "sourceMap": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "noImplicitAny": true
+  }
+}
